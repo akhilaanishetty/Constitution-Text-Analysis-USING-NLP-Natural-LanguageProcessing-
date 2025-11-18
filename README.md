@@ -1,0 +1,2 @@
+# Constitution-Text-Analysis-USING-NLP-Natural-LanguageProcessing-
+Performeddatacleaning,lowercasing,tokenization,stopwordremoval,andstemming using  NLTK     Createsbagofmodel    TransformedtextualdataintonumericalfeaturesusingCountVectorizationandtrained  classificationmodels(LogisticRegression,RandomForest,NaïveBayes).    Achieved~90%classificationaccuracy,identifyingmostinfluentialwordsandsections
